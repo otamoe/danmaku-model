@@ -47,6 +47,8 @@ github.com/otamoe/gin-server v0.0.0-20190515080521-b5a602b5a906 h1:UmNLw5tGIuTrq
 github.com/otamoe/gin-server v0.0.0-20190515080521-b5a602b5a906/go.mod h1:u4xECYHaBdjab1XKy+WQsuH0bIisbrpZ8oxSlqtf6Dw=
 github.com/otamoe/mgo-model v0.0.0-20190515075216-58d4c6d47bdb h1:mQixOVit/xaa86xcHb8+sd10n6erFRm12ZfKJigIQdc=
 github.com/otamoe/mgo-model v0.0.0-20190515075216-58d4c6d47bdb/go.mod h1:aoMmk9QA+FLmmd0HPrsg3hjJO0ILegKPorYfhEqVsFI=
+github.com/otamoe/mgo-model v0.1.0 h1:py6MASAHwP1/hyHNk+0cTZw/eGm6wDBioCCmy3mRNBA=
+github.com/otamoe/mgo-model v0.1.0/go.mod h1:aoMmk9QA+FLmmd0HPrsg3hjJO0ILegKPorYfhEqVsFI=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/sirupsen/logrus v1.4.1 h1:GL2rEmy6nsikmW0r8opw9JIRScdMF5hA8cOYLH7In1k=
