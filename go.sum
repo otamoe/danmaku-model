@@ -45,6 +45,8 @@ github.com/otamoe/auth-model v0.1.2 h1:g/mB+kofaHpt1ego4A/9lBltYYMyKEZDTV0BZazRy
 github.com/otamoe/auth-model v0.1.2/go.mod h1:21HGUBonR/lKCBQPdRzJXFHRHzzQUMS69jao87/2Ixc=
 github.com/otamoe/auth-model v0.2.0 h1:5yi3c0EgjdFA6OzrNlQFLclqaQbeGlGqX+jRIUY1U6E=
 github.com/otamoe/auth-model v0.2.0/go.mod h1:21HGUBonR/lKCBQPdRzJXFHRHzzQUMS69jao87/2Ixc=
+github.com/otamoe/auth-model v0.2.1 h1:wui+sEFFlsn7LOHIJqkOXEstl+eLI1oYkuR9I/4WegM=
+github.com/otamoe/auth-model v0.2.1/go.mod h1:21HGUBonR/lKCBQPdRzJXFHRHzzQUMS69jao87/2Ixc=
 github.com/otamoe/gin-server v0.1.2 h1:+Aaq91QCnhKklKF99tkk7/qnTqUu+bqde8t7fNHFnFs=
 github.com/otamoe/gin-server v0.1.2/go.mod h1:VxPGr/HqHdUuLlHKyLB0BTJgYAehxWhstEF7RTFVPnM=
 github.com/otamoe/mgo-model v0.1.1 h1:X67Rx4w5iO8C+fhJnqINVyf8FkhmWF6TGVOq/uQu7+I=

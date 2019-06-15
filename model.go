@@ -4,7 +4,6 @@ import (
 	"bytes"
 	"context"
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"net/http"
 	"time"
@@ -66,7 +65,6 @@ func Start() {
 	if token, err = transport.Source.Token(); err != nil {
 		return
 	}
-	fmt.Println(token.AccessToken)
 
 	application = &Application{
 		ID:     bson.ObjectIdHex(token.Extra("application_id").(string)),
